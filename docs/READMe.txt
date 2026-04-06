@@ -1,6 +1,13 @@
 Project Title:  Gas Detection System
 Group Name: Group 5
 
+Dwira, Nhyira Ewuradwoa.....7343023
+Nkrumah Samuel..............7343623
+Dontwi, Bismark Appiah......7342933
+Koduah Hammond Paita........1872922
+Nsagnan Richmond............7343723
+Alfred Amuzu................1871722
+
 Project Description:
 This project is an gas leakage detection and alert system built using ESP32. The system reads gas concentration from a gas sensor and performs safety actions depending on the detected gas level.
 
