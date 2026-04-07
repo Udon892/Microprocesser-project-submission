@@ -3,7 +3,7 @@ Group Name: Group 5
 
 Dwira, Nhyira Ewuradwoa.....7343023
 Nkrumah Samuel..............7343623
-Dontwi, Bismark Appiah......7342933
+Dontwi, Bismark Appiah......7342923
 Koduah Hammond Paita........1872922
 Nsagnan Richmond............7343723
 Alfred Amuzu................1871722
